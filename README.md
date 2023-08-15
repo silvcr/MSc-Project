@@ -1,5 +1,5 @@
 # MSc-Project
-## Generative Modelling with XGBoost
+## Density Estimation and Generative Modelling with XGBoost
 Working version: working agb.ipynb.
+Testing script: testing script.ipynb
 
-Currently still in development.
